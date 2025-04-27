@@ -1,1 +1,11 @@
 # CS-330
+
+## Project Reflections
+### Approach to Software Designing
+New design skills that I got from this course are basically everything involving 3D modeling and working with OpenGL.  I had not previously had experience with OpenGL so design skill like working with textures and lighting, for example, were entirely new to me.  For the design procecss, the first step was to plan out how the project would look.  This was then followed by several weeks of iteratively building that vision until the project was fininshed.  This process is something that will be useful for basically every project that I will ever work on.  No project is finished in a single sitting, so an iterative process must be ustilized when working on projects in the future.  A robust planning phase before the actual coding starts is also very useful as it allows you to have a better scope of the project and lets you more easily split it into smaller, more managable chunks.
+
+### Approach to Program Development
+On the development side, similarly I got a lot of exposure to many of the aspects of writing code for OpenGL.  With the nature of the project forcing an iterative development philosophy, that obviously factored heavily into the development process.  Each week a new section of the project was worked on that built off of what was worked on in the previous weeks, it may have been adding teextures to the objects, or giving the scene proper lighting, or even just getting the basic objects rendered into the scene, the process was split into smaller more managable pieces so that they wouldn't overwhelm anyone.
+
+### How can Computer Science help me reach my goals
+The skills that I learned through this course will be helpful further in my career in the Computer Science field.  Especially if I get a position as a game developer these skill working with 3D models will be very helpful as a base for me to further build upon.  Additionally, the itterative development apporach that the project needed will be useful for any future projects that I work on.  No project is ever done all at once and being used to an iterative design philosophy will be helpful in furture projects to not get burned out on them.  Iterative design for projects is vital to ensure that you can be flexible when completing the project.
